@@ -4,7 +4,7 @@
 
 I'm interested in Web development, Software Engineering<br>
 
-Currently I'm developing Family Recipe Hub
+Currently I'm developing Blog App By DJANGO
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marwa-ashraf1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Marwaas88963252) 
 
