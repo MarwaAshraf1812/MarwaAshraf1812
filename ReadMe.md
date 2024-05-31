@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwa Ashraf Abdullah</h1>
-<h3 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;)](https://git.io/typing-svg) </h3>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaashraf1812&label=Profile%20views&color=0e75b6&style=flat" alt="marwaashraf1812" /> </p>
 
