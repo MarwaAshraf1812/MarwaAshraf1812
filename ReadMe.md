@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://twitter.com/marwaas88963252" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="marwaas88963252" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/marwa-ashraf1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwa-ashraf1/" height="30" width="40" /></a>
 
-<<h3 align="left">Stars</h3>
+<h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaashraf1812&layout=compact&theme=tokyonight" alt=marwaashraf1812 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwaashraf1812&show_icons=true&locale=en&theme=tokyonight" alt="marwaashraf1812" /></p>
 
