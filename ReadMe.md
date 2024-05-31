@@ -44,7 +44,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaashraf1812&layout=compact&theme=tokyonight" alt=marwaashraf1812 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwaashraf1812&show_icons=true&locale=en&theme=tokyonight" alt="marwaashraf1812" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marwaashraf1812&theme=" alt="marwaashraf1812" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marwaashraf1812&theme=tokyonight" alt="marwaashraf1812" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaashraf1812&label=Profile%20views&color=0e75b6&style=flat" alt="marwaashraf1812" /> </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
