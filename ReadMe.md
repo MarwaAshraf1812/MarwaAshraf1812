@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Marwa Ashraf</h1>
 <h3 align="center">I'm a BackEnd Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaashraf1812&label=Profile%20views&color=0e75b6&style=flat" alt="marwaashraf1812" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwaashraf1812&theme=tokyonight" alt="marwaashraf1812" /></a> </p>
 
 - 🔭 I’m currently working on [ learning App using React](https://github.com/MarwaAshraf1812/Learning-App.git)
 - 🌱 I’m currently learning **React and tailwind**
@@ -58,14 +55,5 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marwaashraf1812&theme=" alt="marwaashraf1812" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/marwaashraf1812">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwaashraf1812&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marwaashraf1812&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marwaashraf1812&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marwaashraf1812&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwaashraf1812&theme=tokyonight" height="180em" />
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaashraf1812&label=Profile%20views&color=0e75b6&style=flat" alt="marwaashraf1812" /> </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
