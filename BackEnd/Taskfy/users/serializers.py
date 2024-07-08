@@ -6,6 +6,7 @@ from rest_framework import serializers #type: ignore
 class UserSerializer(serializers.ModelSerializer):
     """
     A serializer class for the User model.
+    
     """
     class Meta:
         model = User
