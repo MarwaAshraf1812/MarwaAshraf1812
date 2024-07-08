@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, My name is Marwa</h1>
 <p align="center">I'm a FullStack Software Engineer</p>
 
-- 🔭 I’m currently working on [ learning App using React](https://github.com/MarwaAshraf1812/Learning-App.git)
-- 🌱 I’m currently learning **React and tailwind**
+- 🔭 I’m currently working on [ lTaskfy App using Django](https://github.com/MarwaAshraf1812/Taskfy-app-Django.git)
+- 🌱 I’m currently learning **React**
 
 
 
