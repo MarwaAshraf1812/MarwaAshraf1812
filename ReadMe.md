@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Software Engineer Marwa Ashraf </h1>
+<h1 align="center">Hi 👋, My name is Marwa</h1>
+<p align="center">I'm a FullStack Software Engineer</p>
 
 - 🔭 I’m currently working on [ learning App using React](https://github.com/MarwaAshraf1812/Learning-App.git)
 - 🌱 I’m currently learning **React and tailwind**
