@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, My name is Marwa</h1>
 <p align="center">I'm a FullStack Software Engineer</p>
 
-- 🔭 I’m currently working on [ lTaskfy App using Django](https://github.com/MarwaAshraf1812/Taskfy-app-Django.git)
+- 🔭 I’m currently working on [Taskfy App using Django](https://github.com/MarwaAshraf1812/Taskfy-app-Django.git)
 - 🌱 I’m currently learning **React**
 
 
