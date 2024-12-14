@@ -3,7 +3,7 @@
 <p align="center">I'm a FullStack Software Engineer</p>
 
 - 🔭 I’m currently working on [Family Recipe Hub ](https://github.com/MarwaAshraf1812/family_recipe_hub_client.git)
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
 
 
