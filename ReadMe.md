@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, My name is Marwa</h1>
-<p align="center">I'm a FullStack Software Engineer</p>
+<p align="center">I'm a Backend Software Engineer</p>
 
 - 🔭 I’m currently working on [Family Recipe Hub ](https://github.com/MarwaAshraf1812/family_recipe_hub_client.git)
 - 🌱 I’m currently learning **Next.js and Typescript**
