@@ -68,7 +68,9 @@ graph TD
     AgentEngine --> AgentA
     AgentEngine --> AgentB
     AgentEngine --> AgentC
-    AgentA & AgentB & AgentC -->|Store Results & State| DB
+    AgentA -->|Store Results and State| DB
+    AgentB -->|Store Results and State| DB
+    AgentC -->|Store Results and State| DB
 ```
 
 ---
