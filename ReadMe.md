@@ -37,44 +37,6 @@ I am a **Full Stack Software Engineer** specializing in constructing scalable ba
 
 <br clear="right"/>
 
----
-
-### 🏛️ Engineering Blueprint & System Flow
-Below is a technical architecture diagram representing the asynchronous workflow I implement in multi-agent processing systems (such as my recruitment platform **Naqla AI**):
-
-```mermaid
-graph TD
-    classDef client fill:#7C3AED,stroke:#A78BFA,stroke-width:2px,color:#fff;
-    classDef server fill:#1E1B2E,stroke:#7C3AED,stroke-width:2px,color:#C4B5FD;
-    classDef agent fill:#8B5CF6,stroke:#A78BFA,stroke-width:2px,color:#fff;
-    classDef db fill:#5B21B6,stroke:#7C3AED,stroke-width:2px,color:#fff;
-
-    Client["React / Next.js Client App"]:::client
-    Gateway["Node.js / Express API Gateway"]:::server
-    Queue["BullMQ / Redis Background Worker"]:::server
-    
-    subgraph "Multi-Agent Engine (LangGraph.js)"
-        AgentEngine["Workflow Orchestrator"]:::agent
-        AgentA["Resume Parser Agent"]:::agent
-        AgentB["Technical Evaluation Agent"]:::agent
-        AgentC["Behavioral Assessment Agent"]:::agent
-    end
-
-    DB[("PostgreSQL / MongoDB / Prisma")]:::db
-
-    Client -->|HTTP POST / GraphQL| Gateway
-    Gateway -->|Publish Event| Queue
-    Queue -->|Process Event| AgentEngine
-    AgentEngine --> AgentA
-    AgentEngine --> AgentB
-    AgentEngine --> AgentC
-    AgentA -->|Store Results and State| DB
-    AgentB -->|Store Results and State| DB
-    AgentC -->|Store Results and State| DB
-```
-
----
-
 ### 🛠️ Tech Stack & Tooling
 
 <table>
@@ -160,14 +122,14 @@ graph TD
       <a href="https://github.com/MarwaAshraf1812">View Code →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Workshop Management System</h3>
-      <p>A secure server administration API to organize software workshops, assign homework tasks, host automated quizzes, and calculate real-time student leaderboards.</p>
+      <h3>💰 Finance Tracker Pro</h3>
+      <p>A collaborative personal finance manager featuring real-time budget tracking, automated recurring transactions, Signal-based authentication flow, interactive charts, and premium Stripe payment integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Express-REST-%237C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prisma-ORM-%235B21B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket.io-Realtime-%238B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Angular_21-Frontend-%237C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Express-Backend-%235B21B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-Database-%238B5CF6?style=flat-square" />
       </p>
-      <a href="https://github.com/MarwaAshraf1812">View Code →</a>
+      <a href="https://github.com/MarwaAshraf1812/finance-tracker-pro">View Code →</a>
     </td>
   </tr>
 </table>
