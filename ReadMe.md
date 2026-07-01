@@ -49,18 +49,18 @@ graph TD
     classDef agent fill:#8B5CF6,stroke:#A78BFA,stroke-width:2px,color:#fff;
     classDef db fill:#5B21B6,stroke:#7C3AED,stroke-width:2px,color:#fff;
 
-    Client[React / Next.js Client App]:::client
-    Gateway[Node.js / Express API Gateway]:::server
-    Queue[BullMQ / Redis Background Worker]:::server
+    Client["React / Next.js Client App"]:::client
+    Gateway["Node.js / Express API Gateway"]:::server
+    Queue["BullMQ / Redis Background Worker"]:::server
     
-    subgraph Multi-Agent Engine (LangGraph.js)
-        AgentEngine[Workflow Orchestrator]:::agent
-        AgentA[Resume Parser Agent]:::agent
-        AgentB[Technical Evaluation Agent]:::agent
-        AgentC[Behavioral Assessment Agent]:::agent
+    subgraph "Multi-Agent Engine (LangGraph.js)"
+        AgentEngine["Workflow Orchestrator"]:::agent
+        AgentA["Resume Parser Agent"]:::agent
+        AgentB["Technical Evaluation Agent"]:::agent
+        AgentC["Behavioral Assessment Agent"]:::agent
     end
 
-    DB[(PostgreSQL / MongoDB / Prisma)]:::db
+    DB[("PostgreSQL / MongoDB / Prisma")]:::db
 
     Client -->|HTTP POST / GraphQL| Gateway
     Gateway -->|Publish Event| Queue
@@ -178,10 +178,10 @@ graph TD
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marwaashraf1812&show_icons=true&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" />
+        <img height="180em" src="https://github-stats-extended.vercel.app/api?username=marwaashraf1812&show_icons=true&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaashraf1812&layout=compact&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=C4B5FD" />
+        <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marwaashraf1812&layout=compact&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=C4B5FD" />
       </td>
     </tr>
     <tr>
